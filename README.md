@@ -4,6 +4,6 @@ This module is simply re-uploaded
 
 ### GetShouldSimulate()
 Returns a boolean which means whether physics should be simulated
----
+
 ### SetShouldSimulate(bool)
 Enable/disable physics simulation
