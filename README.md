@@ -1,4 +1,4 @@
-This module is simply re-uploaded
+This module is simply re-uploaded. I don't know who is the original author of this binary module.
 
 ## Functions:
 
